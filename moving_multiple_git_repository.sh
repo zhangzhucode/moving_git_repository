@@ -26,7 +26,7 @@
 # 4. branch_name: 源仓库的分支名称
 # 5. target_branch_name: 目标仓库的分支名称
 declare -a projects=(
-#    "project2 git@yfgit.legendcf.com:project2/repo.git git@codeup.aliyun.com:zhangzhu/project2/repo.git dev dev"
+#    "project2 git@xx.xxxx.com:project2/repo.git git@xxxx.com:zhangzhu/xxxx/repo.git dev dev"
     # 可以继续添加更多项目
 )
 
